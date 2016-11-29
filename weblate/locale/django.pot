@@ -5738,3 +5738,15 @@ msgstr ""
 #: weblate/trans/widgets.py:385
 msgid "translated"
 msgstr ""
+
+# TRANSLATION
+# JAVASCRIPT/ACCEPT
+#: JAVASCRIPT/ACCEPT
+msgid "Accept"
+msgstr ""
+
+# TRANSLATION
+# JAVASCRIPT/CANCEL
+#: JAVASCRIPT/CANCEL
+msgid "Cancel"
+msgstr ""
