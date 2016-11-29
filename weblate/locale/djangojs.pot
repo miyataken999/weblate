@@ -259,3 +259,33 @@ msgstr ""
 #: weblate/static/loader-bootstrap.js:744
 msgid "Clear"
 msgstr ""
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_ALERT1
+#: JAVASCRIPT/CONDITIONAL_ALERT1
+msgid "Some fields have not been filled."
+msgstr ""
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_ALERT2
+#: JAVASCRIPT/CONDITIONAL_ALERT2
+msgid "You should select at least one event (OnChange or OnLoad )"
+msgstr ""
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_ALERT3
+#: JAVASCRIPT/CONDITIONAL_ALERT3
+msgid "You have not tested the condition. Do you want to save it anyway?"
+msgstr ""
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_ALERT4
+#: JAVASCRIPT/CONDITIONAL_ALERT4
+msgid "You have an error in the condition. Do you want to save it anyway?"
+msgstr ""
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_NOFIELDS_IN_CONDITION
+#: JAVASCRIPT/CONDITIONAL_NOFIELDS_IN_CONDITION
+msgid "No records found for conditions setup"
+msgstr ""
