@@ -39,6 +39,20 @@ msgstr ""
 msgid "Username"
 msgstr ""
 
+# TRANSLATION
+# JAVASCRIPT/ACCEPT
+#: JAVASCRIPT/ACCEPT
+msgid "Accept"
+msgstr ""
+
+# TRANSLATION
+# JAVASCRIPT/CANCEL
+#: JAVASCRIPT/CANCEL
+msgid "Cancel"
+msgstr ""
+
+
+
 #: weblate/accounts/forms.py:112 weblate/accounts/pipeline.py:138
 msgid "This username is already taken. Please choose another."
 msgstr ""
